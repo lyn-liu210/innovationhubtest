@@ -1,1 +1,3 @@
-11111111111111
+import { linkSync } from "fs"
+
+hello from linkSync
