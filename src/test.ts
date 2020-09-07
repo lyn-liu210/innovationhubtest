@@ -1,3 +1,3 @@
 import { linkSync } from "fs"
 
-hello from linkSync
+hello from devvvvvvvvvvvvv
